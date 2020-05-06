@@ -3,7 +3,7 @@
 
 Dada la situación que se esta viviendo en medio de la pandemia por coronavirus desde el equipo de Inteligencia Artificial de KUNAN decidimos aportar a la comunidad. 
 
-Realizamos un asistente virtual a través de un chat para responder a dudas que se fueran generando respecto a la cuarentena y la situación actual. Siempre con el objetivo de hacer llegar a la gente, de una forma sencilla y directa, la información de fuentes oficiales. Se abarca una amplia variedad de temas, no solo medidas tomadas desde el gobierno sino tambien recomendaciones de los principales entes de salud como la OMS / OPS a nivel mundial y el Ministerio de Salud de la Nación a nivel nacional.
+Realizamos un asistente virtual a través de un chat para responder a dudas que se fueran generando respecto a la cuarentena y la situación actual. Siempre con el objetivo de hacer llegar a la gente, de una forma sencilla y directa, la información de fuentes oficiales. Se abarca una amplia variedad de temas, no solo medidas tomadas desde el gobierno sino tambien recomendaciones de los principales entes de salud como la OMS / OPS a nivel internacional y el Ministerio de Salud de la Nación a nivel nacional.
 
 Este proyecto es sin fines de lucro, y está disponible para quien desee agregar el asistente a su sitio web. Se puede ver en https://asistocovid.com.ar
 
@@ -18,5 +18,9 @@ Descripción del archivo __DatasetAsistocovid.csv__:
 - texto: descripción del mensaje
 - fecha: formato día-mes-año. fecha del evento
 - hora: formato hora-minutos-segundos. hora del evento
+
+#### Notebooks
+
+Se disponen además unas notebooks como ejemplo de un tipo de análisis que se podría hacer.
 
 
