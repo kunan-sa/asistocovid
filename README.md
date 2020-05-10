@@ -23,7 +23,7 @@ Descripción del archivo __DatasetAsistocovid.csv__:
 
 Términos de uso del dataset:
 * El dataset queda a disposición únicamente para fines de investigación, educativos y académicos sin fines de lucro. 
-* Queda estrictamente prohibido su uso con fines comerciales.
+* Queda prohibido su uso con fines comerciales, como así también su modificación.
 * Las respuestas dadas por el asistente se basan en fuentes oficiales, y tienen solo un fin informativo. Éstas no deben tomarse como consejo médico.
 * El uso del dataset constituye la aceptación de estos términos de uso.
 
