@@ -17,7 +17,7 @@ Descripción del archivo __DatasetAsistocovid.csv__:
 - ID_evento: identificador para cada evento. Un evento puede ser entendido como un mensaje enviado ya sea por el usuario o por el bot.
 - ID_conversacion: identificador para cada usuario que interactuó con el bot.
 - evento: [user, bot] según quien envió el mensaje.
-- categoría: nombre de la categoría asignada a la frase del usuario.
+- categoría: nombre de la categoría que se puede asignar a la frase del usuario.
 - texto: descripción del mensaje.
 - fecha: formato día-mes-año, fecha del evento.
 - hora: formato hora-minutos-segundos, hora del evento.
