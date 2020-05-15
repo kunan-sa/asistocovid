@@ -16,10 +16,11 @@ En el presente repositorio se puede acceder al dataset de conversaciones entre l
 Descripción del archivo __DatasetAsistocovid.csv__:
 - ID_evento: identificador para cada evento. Un evento puede ser entendido como un mensaje enviado ya sea por el usuario o por el bot.
 - ID_conversacion: identificador para cada usuario que interactuó con el bot.
-- evento: [user, bot] según quien envió el mensaje
-- texto: descripción del mensaje
-- fecha: formato día-mes-año. fecha del evento
-- hora: formato hora-minutos-segundos. hora del evento
+- evento: [user, bot] según quien envió el mensaje.
+- categoría: nombre de la categoría asignada a la frase del usuario.
+- texto: descripción del mensaje.
+- fecha: formato día-mes-año, fecha del evento.
+- hora: formato hora-minutos-segundos, hora del evento.
 
 Términos de uso del dataset:
 * El dataset queda a disposición únicamente para fines de investigación, educativos y académicos sin fines de lucro. 
