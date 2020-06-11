@@ -18,6 +18,7 @@ Descripción del archivo __DatasetAsistocovid.csv__:
 - ID_conversacion: identificador para cada usuario que interactuó con el bot.
 - evento: [user, bot] según quien envió el mensaje.
 - categoría: nombre de la categoría que se puede asignar a la frase del usuario.
+- confidence: confianza de la predicción de la categoría de intent.
 - texto: descripción del mensaje.
 - fecha: formato día-mes-año, fecha del evento.
 - hora: formato hora-minutos-segundos, hora del evento.
